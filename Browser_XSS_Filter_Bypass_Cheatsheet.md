@@ -4,7 +4,7 @@
 - **Edited by:** [*Mr. Misconception*](https://github.com/MisconceivedSec)<br>
 - **Translation [Link](https://github-com.translate.goog/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)**<br>
 - **Original [File](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)**<br>
-- [**Archived Bypasses**](./Fixed Bypass Archive.md)
+- [**Archived Bypasses**](./Fixed_Bypass_Archive.md)
 ---
 
 This page summarises XSS Auditor and XSS filter bypass. Content that runs on the latest versions of Chrome/Safari and IE11/Edge is eligible. If you're a vulnerability diagnostician, let us help you convincingly prove that an attack is possible, and if you're a security researcher, help us find more bypasses. What I'm listing is what can be bypassed in common situations. Just because a method isn't listed here doesn't mean it can't be abused in real-world situations. Regardless of whether it can be bypassed or not, it's always a good idea to do some underlying XSS mitigation.

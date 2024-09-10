@@ -1,7 +1,7 @@
 # Browser's XSS Filter Bypass Cheat Sheet
 
 - **Translated by:** [*Dr. Google*](https://translate.google.com)<br>
-- **Edited by:** [*Mr. Misconception*](https://github.com/MisconceivedSec)<br>
+- **Edited by:** [*Abdullah Al-Bakhtari*](https://github.com/albakhtari)<br>
 - **Translation [Link](https://github-com.translate.goog/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)**<br>
 - **Original [File](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)**<br>
 - [**Archived Bypasses**](./Fixed_Bypass_Archive.md)
